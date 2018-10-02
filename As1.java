@@ -5,3 +5,4 @@ public class WordLengths{
     public testCountWordLengths()
 }
 
+LOL
