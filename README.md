@@ -1,1 +1,2 @@
 # CouseraJava
+这是我打算完成coursera上的java课程的repository，目前打算先看完effective java再做，现在是我的git实验区。
